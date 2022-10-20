@@ -3,19 +3,19 @@
 
 ## projeto back-end usando as seguintes tecnologias:
 
-NodeJS
-TypeScript
-Express
-TypeORM
-PostgreSQL
+-NodeJS
+-TypeScript
+-Express
+-TypeORM
+-PostgreSQL
 
 ## Demais bibliotecas:
 
 TS Node Dev
-reflect-metadata (requisito do TypeORM)
-pg (requisito do TypeORM)
-dotenv (variáveis de ambiente)
-express-async-errors (tratar erros no express usando funções assíncronas nos controllers/services)
++ reflect-metadata (requisito do TypeORM)
++ pg (requisito do TypeORM)
++ dotenv (variáveis de ambiente)
++ express-async-errors (tratar erros no express usando funções assíncronas nos controllers/services)
 
 
 ## Mapeamento
