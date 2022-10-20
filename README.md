@@ -1,7 +1,7 @@
-## projeto_zero
+# projeto_zero
 
 
-# projeto back-end usando as seguintes tecnologias:
+## projeto back-end usando as seguintes tecnologias:
 
 NodeJS
 TypeScript
@@ -9,7 +9,7 @@ Express
 TypeORM
 PostgreSQL
 
-# Demais bibliotecas:
+## Demais bibliotecas:
 
 TS Node Dev
 reflect-metadata (requisito do TypeORM)
@@ -18,11 +18,11 @@ dotenv (variáveis de ambiente)
 express-async-errors (tratar erros no express usando funções assíncronas nos controllers/services)
 
 
-# Mapeamento
-Inicializando o Gerenciador de Pacotes
-Dependências de Desenvolvimento Básicas
-Dependências Básicas
-Inicializando as Configurações do TypeScript
+## Mapeamento
+Inicializando o Gerenciador de Pacotes |
+Dependências de Desenvolvimento Básicas |
+Dependências Básicas |
+Inicializando as Configurações do TypeScript |
 Criando uma Estrutura de Pastas pelo Terminal
 Configurando o tsconfig.json
 .gitignore Básico
