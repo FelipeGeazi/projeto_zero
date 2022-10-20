@@ -3,11 +3,11 @@
 
 ## projeto back-end usando as seguintes tecnologias:
 
--NodeJS
--TypeScript
--Express
--TypeORM
--PostgreSQL
+* NodeJS
+* TypeScript
+- Express
+- TypeORM
+- PostgreSQL
 
 ## Demais bibliotecas:
 
