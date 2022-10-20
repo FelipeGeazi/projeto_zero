@@ -1,4 +1,6 @@
-# projeto_zero
+# Projeto_zero
+
+Projeto modelo para uso das seguintes tecnologias. 
 
 
 ## projeto back-end usando as seguintes tecnologias:
@@ -19,20 +21,20 @@ TS Node Dev
 
 
 ## Mapeamento
-Inicializando o Gerenciador de Pacotes |
-Dependências de Desenvolvimento Básicas |
-Dependências Básicas |
-Inicializando as Configurações do TypeScript |
-Criando uma Estrutura de Pastas pelo Terminal
-Configurando o tsconfig.json
-.gitignore Básico
-Scripts: Fluxo de Desenvolvimento e TypeORM CLI
-Configuração Básica: Variáveis de Ambiente
-Configuração Básica: DataSource (TypeORM)
-Tratamento de Erros e o AppError
-Middleware Básico para Tratamento de Erros
-Roteamento Básico
-app.ts Básico
-Primeira Migration
-Modelo Básico de Service
-Modelo Básico de Controler
+- Inicializando o Gerenciador de Pacotes 
+- Dependências de Desenvolvimento Básicas 
+- Dependências Básicas 
+- Inicializando as Configurações do TypeScript 
+- Criando uma Estrutura de Pastas pelo Terminal
+- Configurando o tsconfig.json
+- gitignore Básico
+- Scripts: Fluxo de Desenvolvimento e TypeORM CLI
+- Configuração Básica: Variáveis de Ambiente
+- Configuração Básica: DataSource (TypeORM)
+- Tratamento de Erros e o AppError
+- Middleware Básico para Tratamento de Erros
+- Roteamento Básico
+- app.ts Básico
+- Primeira Migration
+- Modelo Básico de Service
+- Modelo Básico de Controler
